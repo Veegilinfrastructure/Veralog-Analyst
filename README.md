@@ -1,6 +1,6 @@
 # Veralog-Analyst
 
-[VeraLog](https://veralog-analyst2.streamlit.app/) is an AI-powered platform that helps verify posts related to political and economic developments in Nigeria. VeraLog can fact-check user queries and assess the accuracy of posts by calculating the fact-index and providing a verification status.
+[VeraLog](https://veralog-analyst-app6.streamlit.app/) is an AI-powered platform that helps verify posts related to political and economic developments in Nigeria. VeraLog can fact-check user queries and assess the accuracy of posts by calculating the fact-index and providing a verification status.
 
 ## Features
 
